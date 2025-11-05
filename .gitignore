@@ -1,18 +1,19 @@
-/bin/
-
-# Java class files
+# Java build files
 *.class
+classes/
+bin/
+out/
+build/
+target/
 
 # IntelliJ IDEA
 .idea/
-.classes/
 *.iml
-out/
-build/
 
 # Eclipse
 .project
 .classpath
 .settings/
-bin/
 
+# OS files
+.DS_Store
