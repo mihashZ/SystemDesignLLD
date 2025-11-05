@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.List;
 
 public class SnakeAndLadderDemo {
+	//https://www.lldcoding.com/design-lld-snake-and-ladder-game-machine-coding-1
+	//refer the above link when you are free
 	
 	public static void main(String args[]) {
 		run();
